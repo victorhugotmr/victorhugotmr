@@ -3,7 +3,7 @@
 <br><br>
 
 
-Hello there 👋
+<h3>Hello there 👋</h3> <br>
 I am graphic designer studying web development.
 
 🚀   Working at Bee Yellow Marketing <br>
